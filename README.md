@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisha Kumari Chaudhary</h1>
-<h3 align="center">A dedicated and detail-oriented full stack developer, passionate about building robust, scalable web applications with intuitive user interfaces and efficient backend systems. I have a strong focus on user experience, performance, and modern web technologies across both frontend and backend development.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neesui&label=Profile%20views&color=0e75b6&style=flat" alt="neesui" /> </p>
+<h3>A dedicated and detail-oriented full stack developer, passionate about building robust, scalable web applications with intuitive user interfaces and efficient backend systems. I have a strong focus on user experience, performance, and modern web technologies across both frontend and backend development.</h3>
 
 - 📫 How to reach me **📩 Email: neeshachy2020@gmail.com**
 
