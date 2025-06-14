@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/[nisha-kumari-chaudhary](https://www.linkedin.com/in/nisha-chaudhary-16ab0333a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[nisha-kumari-chaudhary](https://www.linkedin.com/in/nisha-chaudhary-16ab0333a/)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nisha-chaudhary-16ab0333a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[nisha-kumari-chaudhary](https://www.linkedin.com/in/nisha-chaudhary-16ab0333a/)" height="30" width="40" /></a>
 <a href="https://fb.com/[yunisha02](https://www.facebook.com/yunisha02)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[yunisha02](https://www.facebook.com/yunisha02)" height="30" width="40" /></a>
 </p>
 
