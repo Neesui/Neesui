@@ -14,4 +14,6 @@
 
 ![neesui's Stats](https://github-readme-stats.vercel.app/api?username=neesui&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![neesui's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neesui&theme=default&show_icons=true&hide_border=true&layout=compact)
+![neesui's Streak](https://github-readme-streak-stats.herokuapp.com/?user=neesui&theme=default&hide_border=true)
+
 
