@@ -20,21 +20,7 @@ Focused on building scalable web apps & modern UI
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neesui&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neesui&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 🚀 About Me:
 - 💻 Full Stack Developer (MERN)
 - 🎯 Focused on UI/UX & Performance
-- ☁️ Learning DevOps & AWS
-- 📚 Building E-learning Platform
 
----
-
-### ✨ Fun Fact:
-I turn coffee ☕ into code 💻
