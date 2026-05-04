@@ -5,13 +5,10 @@ A passionate Full Stack Developer 🚀<br>
 Focused on building scalable web apps & modern UI
 </p>
 
----
-
-### 🔗 Connect with me:
 <p align="center">
-  <a href="https://your-portfolio-link.com">🌐 Portfolio</a>
+  <a href="https://www.facebook.com/yunisha02">🌐 Facbook</a>
   <a href="mailto:neeshachy2020@gmail.com">📧 Email</a>
-  <a href="https://linkedin.com/in/your-linkedin">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/nisha-chaudhary-16ab0333a/">💼 LinkedIn</a>
 </p>
 
 ---
